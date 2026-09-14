@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Eduardo!+👋;Estudante+de+Ciência+da+Computação;Desenvolvedor+de+Software" alt="Typing SVG" />
-</div>
-
----
-
 ## 👨‍💻 Sobre mim
 
-Sou apaixonado por tecnologia e resolução lógica de problemas. Minha base técnica começou com a formação em Eletrotécnica e hoje construo minha carreira no desenvolvimento de software.
+Me chamo Eduardo Felipe Mendonça Silva e sou apaixonado por tecnologia e resolução lógica de problemas. Minha base técnica começou com a formação em Eletrotécnica e hoje construo minha carreira no desenvolvimento de software.
 
 - 🎓 Cursando o 3º período de **Ciência da Computação** na **Universidade Federal de Uberlândia (UFU)**.
 - 🚀 Em busca de oportunidade de **estágio em Desenvolvimento de Software**.
