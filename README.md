@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-Me chamo Eduardo Felipe Mendonça Silva e sou apaixonado por tecnologia e resolução lógica de problemas. Minha base técnica começou com a formação em Eletrotécnica e hoje construo minha carreira no desenvolvimento de software.
+Me chamo Eduardo Felipe Mendonça Silva, e sou apaixonado por tecnologia e resolução lógica de problemas. Minha base técnica começou com a formação em Eletrotécnica e hoje construo minha carreira no desenvolvimento de software.
 
 - 🎓 Cursando o 3º período de **Ciência da Computação** na **Universidade Federal de Uberlândia (UFU)**.
 - 🚀 Em busca de oportunidade de **estágio em Desenvolvimento de Software**.
