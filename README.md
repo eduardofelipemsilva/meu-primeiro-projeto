@@ -1,7 +1,3 @@
-README do Perfil GitHub - Eduardo Felipe
-Instruções: Para que este README apareça na página inicial do seu GitHub, você precisa criar um novo repositório com o mesmo nome do seu usuário (ex: eduardofelipemsilva). O GitHub vai avisar que você descobriu um "segredo". Depois de criar, copie o código abaixo e cole no arquivo README.md desse repositório especial.
-
-Código Markdown para copiar:
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Eduardo!+👋;Estudante+de+Ciência+da+Computação;Desenvolvedor+de+Software" alt="Typing SVG" />
 </div>
