@@ -3,7 +3,7 @@
 Me chamo Eduardo Felipe Mendonça Silva, e sou apaixonado por tecnologia e resolução lógica de problemas. Minha base técnica começou com a formação em Eletrotécnica e hoje construo minha carreira no desenvolvimento de software.
 
 - 🎓 Cursando o 3º período de **Ciência da Computação** na **Universidade Federal de Uberlândia (UFU)**.
-- 🚀 Em busca de oportunidade de **estágio em Desenvolvimento de Software**.
+- 🚀 Em busca de oportunidade de **estágio em Desenvolvimento de Software e Web**.
 - 📚 Atualmente me aprofundando em **Desenvolvimento Web** (React, Node.js) e fortalecendo minha base em Back-end.
 - 💡 Praticante constante de resolução de algoritmos (LeetCode).
 - 🎮 Nas horas vagas, você provavelmente me encontra jogando uma partida de **VALORANT** ou **League of Legends**.
